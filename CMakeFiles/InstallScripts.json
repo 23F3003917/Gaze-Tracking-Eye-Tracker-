@@ -1,0 +1,15 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/anirudhsinghtomar/Desktop/OpenFace/build/cmake_install.cmake",
+		"/Users/anirudhsinghtomar/Desktop/OpenFace/build/lib/local/LandmarkDetector/cmake_install.cmake",
+		"/Users/anirudhsinghtomar/Desktop/OpenFace/build/lib/local/FaceAnalyser/cmake_install.cmake",
+		"/Users/anirudhsinghtomar/Desktop/OpenFace/build/lib/local/GazeAnalyser/cmake_install.cmake",
+		"/Users/anirudhsinghtomar/Desktop/OpenFace/build/lib/local/Utilities/cmake_install.cmake",
+		"/Users/anirudhsinghtomar/Desktop/OpenFace/build/exe/FaceLandmarkImg/cmake_install.cmake",
+		"/Users/anirudhsinghtomar/Desktop/OpenFace/build/exe/FaceLandmarkVid/cmake_install.cmake",
+		"/Users/anirudhsinghtomar/Desktop/OpenFace/build/exe/FaceLandmarkVidMulti/cmake_install.cmake",
+		"/Users/anirudhsinghtomar/Desktop/OpenFace/build/exe/FeatureExtraction/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
